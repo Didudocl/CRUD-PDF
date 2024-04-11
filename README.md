@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Se creó este CRUD básico para que los estudiantes de Ingeniería de Software tengan una noción de cómo hacer un reporte y dejarlo en un pdf.
+> Se creó esto para que los estudiantes de Ingeniería de Software tengan una noción de cómo hacer un reporte y dejarlo en un pdf.
 
 ## CRUD con reportes en PDF 📧
 
